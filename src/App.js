@@ -91,6 +91,7 @@ function App() {
       <div className="buy-nav">
         구매하기
       </div>
+      <div className="border-bottom"></div>
       <div className="title-nav">
         [친환경/에코프렌들리] 꼬막 요리계의 혁명적 아이디어
       </div>
@@ -100,7 +101,6 @@ function App() {
       <div className="idea-price">
         8,000P
       </div>
-
     <PointTable></PointTable>
     <div className="top-11px">
     <button className='point-button'>{title[0]}</button>
